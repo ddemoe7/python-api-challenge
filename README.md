@@ -45,7 +45,7 @@ Run linear regression on each relationship. Separate the plots into Northern Hem
 ![SouthernHem_WindSpeed_vs_Lat](https://user-images.githubusercontent.com/22499952/116168544-a5342b00-a6d0-11eb-82c0-4660e486b873.png)
 
 ### Observations
-1.There is a strong negative relationship between Temperature and Latitude in the Northern Hemisphere. As the latitude increases, the temperature decreases.
+1. There is a strong negative relationship between Temperature and Latitude in the Northern Hemisphere. As the latitude increases, the temperature decreases.
 2. Each with an r-squared value of less than .25, it can be said that there is very little relationship (or a weak relationship) between humidity, cloudiness and/or windspeed in both the Nothern and Southern Hemispheres.
 3. The closer one is to the equator (0 degrees), the higher the max temperature is.
 
