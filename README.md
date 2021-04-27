@@ -12,6 +12,15 @@ Create a series of scatter plots to showcase the following:
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
 
+### Results
+![Lat_vs_temp](https://user-images.githubusercontent.com/22499952/116168127-c1839800-a6cf-11eb-9717-fe6abde97073.png)
+
+![Lat_vs_humidity](https://user-images.githubusercontent.com/22499952/116168143-c9dbd300-a6cf-11eb-9a7b-fadeaaa587f6.png)
+
+![Lat_vs_cloudiness](https://user-images.githubusercontent.com/22499952/116168134-c47e8880-a6cf-11eb-96ee-da9494510c19.png)
+
+![Lat_vs_windspeed](https://user-images.githubusercontent.com/22499952/116168155-cf391d80-a6cf-11eb-94d8-30289e4abeac.png)
+
 Run linear regression on each relationship. Separate the plots into Northern Hemisphere and Southern Hemisphere.
 * Northern Hemisphere - Temperature (F) vs. Latitude
 * Southern Hemisphere - Temperature (F) vs. Latitude
@@ -23,6 +32,17 @@ Run linear regression on each relationship. Separate the plots into Northern Hem
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 ### Results
+![NorthernHem_Temp_vs_Lat](https://user-images.githubusercontent.com/22499952/116168483-7ae26d80-a6d0-11eb-9f13-7cf00cb85ecc.png)
+![SouthernHem_Temp_vs_Lat](https://user-images.githubusercontent.com/22499952/116168501-89c92000-a6d0-11eb-9b04-65a80cc658db.png)
+
+![NorthernHem_Humidity_vs_Lat](https://user-images.githubusercontent.com/22499952/116168507-8e8dd400-a6d0-11eb-9306-db6e532a2e92.png)
+![SouthernHem_Humidity_vs_lat](https://user-images.githubusercontent.com/22499952/116168511-90f02e00-a6d0-11eb-809d-42f56102d882.png)
+
+![NorthernHem_Cloudiness_vs_Lat](https://user-images.githubusercontent.com/22499952/116168521-96e60f00-a6d0-11eb-9466-0bbbda768b39.png)
+![SouthernHem_Cloudiness_vs_Lat](https://user-images.githubusercontent.com/22499952/116168529-9b122c80-a6d0-11eb-9323-dc9ac16dcce5.png)
+
+![NorthernHem_WindSpeed_vs_Lat](https://user-images.githubusercontent.com/22499952/116168539-a1a0a400-a6d0-11eb-9375-e40e647bc2ec.png)
+![SouthernHem_WindSpeed_vs_Lat](https://user-images.githubusercontent.com/22499952/116168544-a5342b00-a6d0-11eb-82c0-4660e486b873.png)
 
 ## VacationPy
 Use your skills in working with weather data to plan future vacations.
@@ -34,3 +54,4 @@ Use your skills in working with weather data to plan future vacations.
 * plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City and Country
 
 ### Results
+Could not get gmaps to print to my jupyter notebook but will revisit to update analysis
