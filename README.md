@@ -44,14 +44,19 @@ Run linear regression on each relationship. Separate the plots into Northern Hem
 ![NorthernHem_WindSpeed_vs_Lat](https://user-images.githubusercontent.com/22499952/116168539-a1a0a400-a6d0-11eb-9375-e40e647bc2ec.png)
 ![SouthernHem_WindSpeed_vs_Lat](https://user-images.githubusercontent.com/22499952/116168544-a5342b00-a6d0-11eb-82c0-4660e486b873.png)
 
+### Observations
+1. There is a strong negative relationship between Temperature and Latitude in the Northern Hemisphere. As the latitude increases, the temperature decreases.
+2. Each with an r-squared value of less than .25, it can be said that there is very little relationship (or a weak relationship) between humidity, cloudiness and/or windspeed in both the Nothern and Southern Hemispheres.
+3. The closer one is to the equator (0 degrees), the higher the max temperature is.
+
 ## VacationPy
 Use your skills in working with weather data to plan future vacations.
 
 ### Requirements
 * Create a heat map that displays the humidity for every city from Part 1
-* Narrow down the dataframe to find your ideal weather condition.
-* Use Google Places API to find the first hotel for each city located within 5,000 meters of your coordinates.
-* plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City and Country
+* Narrow down the dataframe to find your ideal weather condition.
+* Use Google Places API to find the first hotel for each city located within 5,000 meters of your coordinates.
+* Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City and Country
 
 ### Results
 Could not get gmaps to print to my jupyter notebook but will revisit to update analysis
