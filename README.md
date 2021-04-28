@@ -60,3 +60,10 @@ Use your skills in working with weather data to plan future vacations.
 
 ### Results
 Could not get gmaps to print to my jupyter notebook but will revisit to update analysis
+
+### Update:
+![Screen Shot 2021-04-27 at 9 45 47 PM](https://user-images.githubusercontent.com/22499952/116334044-8ef69f80-a7a2-11eb-8153-dbb124ba472c.png)
+
+![Screen Shot 2021-04-27 at 9 46 55 PM](https://user-images.githubusercontent.com/22499952/116334067-99b13480-a7a2-11eb-8cfe-ba706751c35c.png)
+
+
