@@ -1,6 +1,6 @@
 # python-api-challenge
 Python API Exercise - What's the Weather Like?
-<i>A two part assignment.</i>
+<i>A two part assignment. (python-api-challenge)</i>
 
 ## WeatherPy
 Create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
