@@ -1,5 +1,5 @@
 # python-api-challenge
-Python API Exercise - What's the Weather Like?
+Python API Exercise - What's the Weather Like? <br>
 <i>A two part assignment. (python-api-challenge)</i>
 
 ## WeatherPy
